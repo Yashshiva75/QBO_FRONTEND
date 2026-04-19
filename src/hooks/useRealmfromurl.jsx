@@ -18,7 +18,6 @@ export function useRealmFromUrl() {
     setRealmId(null);
   }
 
-  // setter so ConnectPage can manually set realmId after popup closes
   function saveRealm(id) {
     localStorage.setItem("qbo_realm_id", id);
     setRealmId(id);

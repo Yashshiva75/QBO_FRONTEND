@@ -9,8 +9,6 @@ export default function ConnectPage({ onConnect }) {
 
   function handleConnect() {
     setLoading(true);
-
-    // open QB login in a centered popup window
     const width = 600;
     const height = 700;
     const left = window.screenX + (window.outerWidth - width) / 2;
@@ -22,7 +20,6 @@ export default function ConnectPage({ onConnect }) {
       `width=${width},height=${height},left=${left},top=${top},resizable=yes,scrollbars=yes`
     );
 
-    // poll every 500ms — when popup closes check if realmId was stored
     const timer = setInterval(() => {
   const stored = localStorage.getItem("qbo_realm_id");
   if (stored) {
