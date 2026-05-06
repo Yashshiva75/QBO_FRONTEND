@@ -72,7 +72,8 @@ export default function ConnectPage({ onConnect }) {
             ) : (
               <>
                 <QBIcon />
-                Connect to QuickBooks
+                Connect to QuickBooks by yash
+                from this line its done in dev-yash branch...
               </>
             )}
           </button>
