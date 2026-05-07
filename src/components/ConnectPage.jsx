@@ -47,7 +47,7 @@ export default function ConnectPage({ onConnect }) {
             Ledger this is change for history
           </h1>
           <p className="text-sm text-gray-400 mt-1 font-light">
-            QuickBooks expense reporter
+            QuickBooks expense reporter new code 
           </p>
         </div>
 
