@@ -44,7 +44,7 @@ export default function ConnectPage({ onConnect }) {
         <div className="mb-10">
           <Logo size="md" />
           <h1 className="text-2xl font-semibold text-gray-900 tracking-tight mt-6">
-            Ledger
+            Ledger this is change for history again new code again
           </h1>
           <p className="text-sm text-gray-400 mt-1 font-light">
             QuickBooks expense reporter this change is done in master for conflict creation
@@ -52,6 +52,7 @@ export default function ConnectPage({ onConnect }) {
             is 
             a worthy 
             developer
+
           </p>
         </div>
 
@@ -76,7 +77,8 @@ export default function ConnectPage({ onConnect }) {
             ) : (
               <>
                 <QBIcon />
-                Connect to QuickBooks
+                Connect to QuickBooks by yash
+                from this line its done in dev-yash branch...
               </>
             )}
           </button>
