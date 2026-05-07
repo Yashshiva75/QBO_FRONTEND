@@ -48,6 +48,9 @@ export default function ConnectPage({ onConnect }) {
           </h1>
           <p className="text-sm text-gray-400 mt-1 font-light">
             QuickBooks expense reporter
+            Lorem ipsum, dolor sit amet consectetur adipisicing
+             elit. At fuga deserunt laborum eaque quod odit suscipit blanditiis veniam nihil fugit
+             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus, explicabo?.
           </p>
         </div>
 

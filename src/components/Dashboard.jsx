@@ -272,7 +272,9 @@ export default function Dashboard({ realmId, onDisconnect }) {
         <div className="max-w-3xl mx-auto flex items-center justify-between gap-2">
           <div className="flex items-center gap-2 sm:gap-3 min-w-0">
             <Logo size="sm" />
-            <span className="text-sm font-semibold text-gray-900">Ledger</span>
+            <span className="text-sm font-semibold text-gray-900">Ledger
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima laudantium dolor sequi exercitationem eveniet id nemo rerum quasi error. Consequuntur ipsum, soluta dolores quaerat hic ducimus deserunt quidem eligendi dignissimos.
+            </span>
           </div>
           <div className="flex items-center gap-2 sm:gap-4 min-w-0">
             <span className="text-xs text-gray-400 font-mono bg-gray-50 px-2 py-1 rounded truncate max-w-[120px] sm:max-w-none">
@@ -282,7 +284,7 @@ export default function Dashboard({ realmId, onDisconnect }) {
               onClick={onDisconnect}
               className="text-xs text-gray-400 hover:text-gray-700 transition-colors whitespace-nowrap"
             >
-              Disconnect
+              Disconnectasdfasdf
             </button>
           </div>
         </div>
