@@ -47,7 +47,11 @@ export default function ConnectPage({ onConnect }) {
             Ledger
           </h1>
           <p className="text-sm text-gray-400 mt-1 font-light">
-            QuickBooks expense reporter
+            QuickBooks expense reporter this change is done in master for conflict creation
+            yash shiva
+            is 
+            a worthy 
+            developer
           </p>
         </div>
 
