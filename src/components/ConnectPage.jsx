@@ -44,7 +44,7 @@ export default function ConnectPage({ onConnect }) {
         <div className="mb-10">
           <Logo size="md" />
           <h1 className="text-2xl font-semibold text-gray-900 tracking-tight mt-6">
-            Ledger this is change for history again new code
+            Ledger this is change for history again new code again
           </h1>
           <p className="text-sm text-gray-400 mt-1 font-light">
             QuickBooks expense reporter new code 
